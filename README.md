@@ -14,7 +14,7 @@
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Fxyt/flow3.git
+   git clone https://github.com/realfx24/flow3.git
    cd flow3
    ```
 
